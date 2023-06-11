@@ -1,5 +1,5 @@
 # CIT-Minor-EN
-![Pier Picture](git page picture.jpg)
+![Pier Picture](git_page_picture.jpg)
 # List of Labs
 - [Lab 1](link-to-lab-1-repo): Setting up personal computer and creating first Node.js server-side JavaScript file.
 - [Lab 2](link-to-lab-2-repo): Exploring terminal more and practice using CLI commands, git repository commands and commiting and ignoring files.
