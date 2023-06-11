@@ -18,3 +18,4 @@
 - [Project 4](link-to-project-4-repo): Created a REST API that will respond with questions and answers, practiced Node.js REST API servers and working with static data.
 - [Project 5](link-to-project-5-repo): Created a monster game using classes, practiced modifyting classes and using Array map() and forEach() methods.
 - [Project 6](link-to-project-6-repo): Pracice creating classes and modifying them using super and class inheritance.
+- [Project 7](link-to-project-7-repo): Practice creating GitHub page and repositories for all the Labs and Projects I did this term.
