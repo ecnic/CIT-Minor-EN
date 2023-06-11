@@ -1,5 +1,5 @@
 # CIT-Minor-EN
-
+![Cool Pier Picture}("C:\Users\ecnic\OneDrive - University Of Oregon\Undergrad\Spring 2023\cit281\p7\CIT-Minor-EN\git page picture.jpg")
 # List of Labs
 - [Lab 1](link-to-lab-1-repo): Setting up personal computer and creating first Node.js server-side JavaScript file.
 - [Lab 2](link-to-lab-2-repo): Exploring terminal more and practice using CLI commands, git repository commands and commiting and ignoring files.
